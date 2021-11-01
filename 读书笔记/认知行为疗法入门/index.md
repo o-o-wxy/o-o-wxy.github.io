@@ -12,11 +12,11 @@
 
 - 流程图模型
   
-    ![Untitled](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E5%85%A5%E9%97%A8/Untitled.png)
+    ![Untitled](Untitled.png)
     
 - 环路模型
   
-    ![Untitled](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E5%85%A5%E9%97%A8/Untitled%201.png)
+    ![Untitled](Untitled%201.png)
     
 - T字模型
   
